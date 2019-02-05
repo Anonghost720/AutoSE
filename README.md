@@ -1,5 +1,4 @@
-# SoftEther Auto Install By Anonghost720
-# Softether Autoinstall Ubuntu/Debian
+# SoftEther Auto Install By Anonghost720 for Ubuntu/Debian
 * Softether Auto Install Script for multi platforms updated version
 #Latest Softether Server Version for May 2018 v4.28-9669-beta-2018.09.11
 * Debian 8 (jessie) <b>(Not compatible for Debian 9 (stretch) x64 - compilation error)</b>
