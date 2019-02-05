@@ -13,7 +13,7 @@ Download installer.sh using wget or transfer to your root directory using ftp<br
 
 <b>Download and install the installer.sh by executing the commands below</b><br /><br />
 <b>For debian and ubuntu</b> (copy all the codes below and paste on your terminal)<br /><br />
-```wget https://raw.githubusercontent.com/jaysonvelagio/SoftetherAutoInstallMultiPlatform/master/Debian%20and%20Ubuntu/installer.sh && chmod +x installer.sh && ./installer.sh```<br /><br /><br />
+```wget https://raw.githubusercontent.com/Anonghost720/SoftEther-Autoinstal-Ubuntu-Debian/master/install.sh && chmod +x install.sh && ./install.sh```<br /><br /><br />
 
 # VPN server commands<br />
 ```/etc/init.d/vpnserver start - to start```<br />
