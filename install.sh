@@ -15,8 +15,8 @@ cd /root
 apt-get update -y
 apt-get install build-essential -y
 #Downloading server files
-wget http://www.softether-download.com/files/softether/v4.29-9680-rtm-2019.02.28-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.29-9680-rtm-2019.02.28-linux-x64-64bit.tar.gz
-tar zxf softether-vpnserver-v4.29-9680-rtm-2019.02.28-linux-x64-64bit.tar.gz
+wget http://www.softether-download.com/files/softether/v4.31-9727-beta-2019.11.18-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.31-9727-beta-2019.11.18-linux-x64-64bit.tar.gz
+tar zxf softether-vpnserver-v4.31-9727-beta-2019.11.18-linux-x64-64bit.tar.gz
 cd vpnserver
 #Installing server files, Manual input
 clear
@@ -24,7 +24,7 @@ echo  -e "\033[31;7mNOTE: ANSWER 1 AND ENTER THREE TIMES FOR THE COMPILATION TO 
 make
 cd /root
 mv vpnserver /usr/local
-rm -rf softether-vpnserver-v4.29-9680-rtm-2019.02.28-linux-x64-64bit.tar.gz
+rm -rf softether-vpnserver-v4.31-9727-beta-2019.11.18-linux-x64-64bit.tar.gz
 cd /usr/local/vpnserver
 chmod 600 *
 chmod 700 vpncmd
