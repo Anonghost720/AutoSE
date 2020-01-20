@@ -4,7 +4,7 @@
 * Debian 8 (jessie) <b>(Not compatible for Debian 9 (stretch) x64 - compilation error)</b>
 * Ubuntu 14, 15, 16 x64 <b>(Not compatible for Ubuntu 17 and 18 x64 - compilation error)</b>
 
-# Buy ready to go and Ddos protected vpns at https://securityteamvpn.com
+# Buy ready to go and Ddos protected vpns at https://ghostgamingvpn.io
 The best gaming vpns on the market, we sale gaming vpns with top ddos protection.
 for just $9 you have access to over 30 locations from OVH, NFO, BLAZIN and many more.
 
